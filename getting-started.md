@@ -20,7 +20,7 @@ For members involved in mobile application projects, you will be given your appl
 
 ## Coding styles
 
-Every project can have its own individual code style but it is recommended to follow the industry's best practices of your language. For example, you should aim to follow PEP 8 for python.
+Every project can have its own individual code style but it is recommended to follow the industry's best practices for your language. For example, you should aim to follow PEP 8 for python.
 
 ### Styles
 
