@@ -1,6 +1,6 @@
 # Azure
 
-These are the Azure guidelines for building an RSAF compliant app from 2019 onwards.
+These are the Azure guidelines for building a RSAF compliant app from 2019 onwards.
 
 ## Authentication
 
@@ -12,16 +12,21 @@ Most of our apps require some form of basic authentication. We are now using [Az
 
 **DOs**
 
-- :heavy_check_mark: Do use [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) to authenticate users.
-- :heavy_check_mark: Do use [MSAL](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) instead of [ADAL](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries). They have a whole suite of SDKs for easy integration.
-- :heavy_check_mark: Do ensure that your users have two-factor authentication enabled.
-- :heavy_check_mark: Do ensure that your app is configured to be single tenanted to Swift Office azure's tenantId.
-- :heavy_check_mark: Do use [AAD custom roles](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/roles-create-custom) to give permissions to certain users or features.
-- :heavy_check_mark: Do ensure that you are using the correct authentication flow (implicit/explicit) for your applications
+:heavy_check_mark: Do use [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) to authenticate users.
+
+:heavy_check_mark: Do use [MSAL](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) instead of [ADAL](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries). They have a whole suite of SDKs for easy integration.
+
+:heavy_check_mark: Do ensure that your users have two-factor authentication enabled.
+
+:heavy_check_mark: Do ensure that your app is configured to be single tenanted to Swift Office azure's tenantId.
+
+:heavy_check_mark: Do use [AAD custom roles](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/roles-create-custom) to give permissions to certain users or features.
+
+:heavy_check_mark: Do ensure that you are using the correct authentication flow (implicit/explicit) for your applications
 
 **Don'ts**
 
-- :heavy_multiplication_x: Do not roll out your own user authentication
+:heavy_multiplication_x: Do not roll out your own user authentication
 
 ## APIs
 
