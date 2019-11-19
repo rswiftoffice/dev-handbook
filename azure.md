@@ -32,6 +32,6 @@ Most of our apps require some form of basic authentication. We are now using [Az
 
 Your api may require authentication or certain permissions to access. To authenticate a user to use your API, you will have to acquire a token for your API's scope and send the token along with the request. For more information, read this article on [How to protect your backend with AAD](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad).
 
-## Push Notifications
+## Push notifications
 
 If your app requires push notifications, you should send your notifications through [Azure Notifications Hub](https://azure.microsoft.com/en-us/services/notification-hubs/). It is easy to scale and fast to implement in your backend and frontend, making it suitable for both prototyping and production systems. Their [documentation](https://docs.microsoft.com/en-us/azure/notification-hubs/) has examples for Android, iOS, Windows to get you started easily.
