@@ -2,6 +2,14 @@
 
 These are the Azure guidelines for building a RSAF compliant app from 2019 onwards.
 
+## Microservices concept
+
+A microservices architecture consists of a collection of small, autonomous services. Each service is self-contained and should implement a single business capability. We are adopting the microservices architecture for our applications because it is easier to manage, highly scalable and its data is isolated from other services.
+
+![Azure microservices architecture](https://docs.microsoft.com/en-us/azure/architecture/includes/images/microservices-logical.png)
+
+For example, you can spin up new services and add them to your application stack without reconfiguring your entire architecture. To get started, explore the thousands of managed services on Azure to get a feel of what you can do with it.
+
 ## Authentication
 
 Most of our apps require some form of basic authentication. We are now using [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) to manage our users. This has many benefits: 
