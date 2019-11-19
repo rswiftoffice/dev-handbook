@@ -2,8 +2,7 @@
 
 All the things you need to know about being a developer at Swift Office.
 
-This is a **WORK IN PROGRESS**. Help us make it better by [submitting an
-issue](https://github.com/rswiftoffice/dev-handbook).
+This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](https://github.com/rswiftoffice/dev-handbook/issues/new). Contributing guidelines can be found [here](https://github.com/rswiftoffice/dev-handbook/blob/master/CONTRIBUTING.md).
 
 ## Table of guides
 
