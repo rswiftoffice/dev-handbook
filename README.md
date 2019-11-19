@@ -9,6 +9,7 @@ This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](
 * [Getting started](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#getting-started)
   * [Accounts creation](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#accounts-creation)
   * [Coding styles](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#coding-styles)
+  * [Supported frameworks](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#supported-frameworks)
 * [Android](https://github.com/rswiftoffice/dev-handbook/blob/master/android.md#android)
 * [iOS](https://github.com/rswiftoffice/dev-handbook/blob/master/ios.md#ios)
 * [Azure](https://github.com/rswiftoffice/dev-handbook/blob/master/azure.md#azure)

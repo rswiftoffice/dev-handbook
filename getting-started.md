@@ -30,3 +30,14 @@ Every project can have its own individual code style but it is recommended to fo
 | Dart          | [Dart Style](https://dart.dev/guides/language/effective-dart/style)        | 
 
 Add to this list by submitting a pr.
+
+## Supported frameworks
+
+If your framework of choice is not here, please clarify with [Jonathan](https://github.com/voyager163) first before digging in to your project. There might be security drawbacks for certain frameworks and hence they are not supported.
+
+**Supported frameworks**:
+- [Flutter](https://flutter.dev/)
+- [VueJS](https://vuejs.org/)
+
+**Unsupported frameworks**:
+- [React native](https://facebook.github.io/react-native/)
