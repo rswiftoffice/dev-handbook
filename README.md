@@ -19,4 +19,4 @@ issue](https://github.com/rswiftoffice/dev-handbook).
   * [Push notifications](https://github.com/rswiftoffice/dev-handbook/blob/master/azure.md#push-notifications)
 * [CI/CD](https://github.com/rswiftoffice/dev-handbook/blob/master/ci-cd.md#ci-cd)
   * [Flutter](https://github.com/rswiftoffice/dev-handbook/blob/master/ci-cd.md#flutter-applications)
-  * [Azure devops]((https://github.com/rswiftoffice/dev-handbook/blob/master/ci-cd.md#azure-devops))
+  * [Azure devops](https://github.com/rswiftoffice/dev-handbook/blob/master/ci-cd.md#azure-devops)
