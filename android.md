@@ -18,6 +18,8 @@ alias: appName-android-key
 
 password: generate a secure password
 
+**You should generate this key yourself. If you are engaging a vendor to develop your application, do not hand over this key. Sign the application yourself and pass the key to [Jonathan](https://github.com/voyager163) afterwards for safekeeping.**
+
 ## Play store settings 
 
 **Email**: [developer@swiftoffice.org](mailto:developer@swiftoffice.org)
