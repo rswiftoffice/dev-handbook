@@ -8,7 +8,11 @@ These are the iOS guidelines for building and uploading an app to the App Store.
 
 ### Keys
 
-The same key has to be used for **all** apps under swift office. Contact [Jonathan](https://github.com/voyager163) to get a copy of the key.
+The same key has to be used for **all** apps under swift office. Contact [Jonathan](https://github.com/voyager163) to get a copy of the key or retrieve it from the keyvault if you have sufficient permissions.
+
+```
+File: Swift-Apps-iOS.p8
+```
 
 This key has push notifications enabled.
 
