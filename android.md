@@ -12,11 +12,10 @@ Use app signing by Google play to manage the key for your app. It’s a secure w
 
 Each android app should have its own key and keystore.
 
-keystore naming convention: appName-android-keystore.jks
-
-alias: appName-android-key
-
-password: generate a secure password
+Our naming conventions:
+```
+keystore: Swift-Apps-appName.jks
+```
 
 **You should generate this key yourself. If you are engaging a vendor to develop your application, do not hand over this key. Sign the application yourself and pass the key to [Jonathan](https://github.com/voyager163) afterwards for safekeeping.**
 
