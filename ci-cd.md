@@ -4,6 +4,10 @@ We strive to achieve full CI/CD implementation for all of our projects. With CI/
 
 It is best practice to implement your pipeline before your first release.
 
+## Node.js
+
+You can follow [Kevin's Wolfpack rest API](https://github.com/rswiftoffice/Wolfpack-api) which has tests, linting, styling and azure pipelines integrated already. Checkout release [v0.2.1](https://github.com/rswiftoffice/Wolfpack-api/releases/tag/v0.2.1) for a barebones example.
+
 ## Flutter applications
 
 [Kevin](https://github.com/19hours) is working on a pipeline to build, package and upload flutter applications. 
