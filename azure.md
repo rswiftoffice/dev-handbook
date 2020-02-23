@@ -43,3 +43,5 @@ Your api may require authentication or certain permissions to access. To authent
 ## Push notifications
 
 If your app requires push notifications, you should send your notifications through [Azure Notifications Hub](https://azure.microsoft.com/en-us/services/notification-hubs/). It is easy to scale and fast to implement in your backend and frontend, making it suitable for both prototyping and production systems. Their [documentation](https://docs.microsoft.com/en-us/azure/notification-hubs/) has examples for Android, iOS, Windows to get you started easily.
+
+If you're using the Flutter framework, you can use the [azure notifications hub plugin](https://pub.dev/packages/azure_notificationhubs_flutter).
