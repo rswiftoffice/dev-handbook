@@ -6,18 +6,26 @@ It is best practice to implement your pipeline before your first release.
 
 ## Node.js
 
-You can follow [Kevin's Wolfpack REST API](https://github.com/rswiftoffice/Wolfpack-api) which has tests, linting, styling and azure pipelines integrated already. Checkout release [v0.2.2](https://github.com/rswiftoffice/Wolfpack-api/tree/v0.2.2) for a barebones example.
+You can follow [Kevin's RTMA REST API](https://github.com/rswiftoffice/RTMA-api) which has tests, linting, styling and azure pipelines integrated already. Checkout release [v0.2.2](https://github.com/rswiftoffice/Wolfpack-api/tree/v0.2.2) for a barebones example.
 
-## Flutter applications
+## PHP
 
-[Kevin](https://github.com/19hours) is working on a pipeline to build, package and upload flutter applications. 
+You can check out GLNM's Laravel deployment on Azure. Repository's on Github. 
 
-Expected features include:
+For Laravel deployments:
 
-- On github release, build is triggered and code is tested and packaged.
-- Server automatically screenshots and uploads them to stores.
-- Set changelog descriptions.
+- Have a .htaccess file in your root repository to redirect requests to public folder
+```
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule ^.*$ /public/$1 [NC,L,QSA]
+</IfModule>
+```
 
-## Azure devops
+## Flutter (in-progress)
 
-You can use azure devops to build a pipeline for your javascript or python applications. You can configure them through the [devops portal](https://azure.microsoft.com/en-us/services/devops/) or manually through a yaml file.
+[View progress here](https://github.com/rswiftoffice/dev-handbook/issues/1).
+
+## Azure Devops
+
+You can use Azure Devops to build a pipeline for your applications. You can configure them through the [Devops portal](https://azure.microsoft.com/en-us/services/devops/) or manually through a yaml file.
