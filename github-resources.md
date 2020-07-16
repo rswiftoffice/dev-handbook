@@ -2,11 +2,11 @@
 
 <<Haven have time to write>>
 
-## Flutter Git Ingo
+## Flutter gitignore Template
 
 https://github.com/flutter/flutter/blob/master/.gitignore
 
-## React Native GitIgnore Template
+## React Native gitignore Template
 
 https://github.com/facebook/react-native/blob/master/template/_gitignore
 
