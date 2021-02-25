@@ -1,8 +1,46 @@
-# Swift Office Engineering Playbook
-
-All the things you need to know about being a developer at Swift Office.
+# Announcement
 
 This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](https://github.com/rswiftoffice/dev-handbook/issues/new). Contributing guidelines can be found [here]().
+
+# Swift Office Engineering Playbook
+
+An engineer working on a software or data engineering project...
+
+* Has responsibilities to their team – mentor, coach, and lead.
+* Knows their **playbook**. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use your playbook, give them yours.
+* Leads by example. Models the behaviors we desire both interpersonally and technically.
+* Strives to understand how their work fits into a broader context and ensures the outcome.
+
+This is our playbook. All contributions welcome! Please feel free to submit a pull request to get involved.
+
+## Why Have A Playbook
+
+* To increase overall efficiency for team members and the whole team in general.
+* Reduce the number of mistakes and avoid common pitfalls.
+* Strive to be a better engineer and learn from other people's shared experience.
+
+## "The" Checklist
+
+If you are starting your project, you can follow the [Software Engineering Fundamentals Checklist](ENG-FUNDAMENTALS-CHECKLIST.md)! It's here to help follow the Software Engineering Fundamentals.
+
+If you are looking to deploy your application, you can follow the [Deployment Checklist]()
+
+## Structure of a Sprint
+
+A [breakdown of sections](SPRINT-STRUCTURE.md) according to the structure of an Agile sprint.
+
+## General Guidance
+
+* Keep the code quality bar high.
+* Value quality and precision over ‘getting things done’.
+* Work diligently on the one important thing.
+* As a distributed team take time to share context via wiki, teams and backlog items.
+* Make the simple thing work now. Build fewer features today, but ensure they work amazingly. Then add more features tomorrow.
+* Avoid adding scope to a backlog item, instead add a new backlog item.
+* Our goal is to ship incremental customer value.
+* Keep backlog item details up to date to communicate the state of things with the rest of your team.
+* Report product issues found and provide clear and repeatable engineering feedback!
+* We all own our code and each one of us has an obligation to make all parts of the solution great.
 
 ## Table of guides
 
