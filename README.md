@@ -42,7 +42,18 @@ A [breakdown of sections](SPRINT-STRUCTURE.md) according to the structure of an 
 * Report product issues found and provide clear and repeatable engineering feedback!
 * We all own our code and each one of us has an obligation to make all parts of the solution great.
 
-## Table of guides
+## Software Engineering Fundamentals
+
+* [Agile Development](agile-development/README.md)
+* [Code Reviews](code-reviews/README.md)
+* [Security](security/README.md)
+* [Source Control](source-control/readme.md)
+
+## Data Engineering Fundamentals
+
+
+
+## Old Content (Restructuring In Progress)
 
 * [Getting started](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#getting-started)
   * [Accounts creation](https://github.com/rswiftoffice/dev-handbook/blob/master/getting-started.md#accounts-creation)
