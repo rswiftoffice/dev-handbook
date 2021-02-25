@@ -4,7 +4,7 @@ This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](
 
 # Swift Office Engineering Playbook
 
-An engineer working on a software or data engineering project...
+Welcome to the team, we're super excited to have you! Swift Office is a growing team of developers in the Air Force. Here is an outline of things you need to do/know before you start any projects. An engineer working on a software or data engineering project...
 
 * Has responsibilities to their team – mentor, coach, and lead.
 * Knows their **playbook**. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use your playbook, give them yours.
