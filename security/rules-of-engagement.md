@@ -2,6 +2,14 @@
 
 When performing application security analysis, it is expected that the tester follow the *Rules of Engagement* as laid out below. This is to standardize the scope of application testing and provide a concrete awareness of what is considered "out of scope" for security analysis.
 
+By default, all software engineering projects is required to implement continuous penetration testing plan as part of their product delivery.
+
+## Why Continuous Penetration Testing
+
+Continuous penetration testing seeks to provide a solution to areas where standard penetration testing may not be the best fit. After all, environments change. A standard penetration test is only a snapshot of what the security posture of your application or network had at the time of testing. What happens a month later if you connect a new API, add in a new server, or alter your environment in any other way? A web application that was stable yesterday could change with the next update. If it undergoes an annual or even bi-annual penetration test, chances are, this issue might not be discovered until the next round of testing. This would leave a vulnerability open to the world until the next test.
+
+To combat this issue, our continuous penetration testing service provides a solution. Instead of just one test a year, we test your environment and application continuously. Through continuous penetration testing, we are able to stimulate a more realistic form of testing
+
 ## Rules of Engagement - For those requesting review
 
 * Web Application Firewall (WAF) is managed centrally by Swift Office but automatic port blocking is enabled. This can greatly slow down a person performing the any security test.
