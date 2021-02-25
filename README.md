@@ -21,7 +21,7 @@ This is our playbook. All contributions welcome! Please feel free to submit a pu
 
 ## "The" Checklist
 
-If you are starting your project, you can follow the [Software Engineering Fundamentals Checklist](ENG-FUNDAMENTALS-CHECKLIST.md)! It's here to help follow the Software Engineering Fundamentals.
+If you are starting your software engineering project, you can follow the [Software Engineering Fundamentals Checklist](SOFTENG-FUNDAMENTALS-CHECKLIST.md)! It's here to help follow the Software Engineering Fundamentals.
 
 If you are looking to deploy your application, you can follow the [Deployment Checklist]()
 
