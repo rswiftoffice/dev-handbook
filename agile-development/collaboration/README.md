@@ -22,7 +22,7 @@ Below are some general guidelines for pairing:
 - Engineers trade places often from one session to the next so that everyone has time in control of the keyboard.
 - Engineers leverage feature branches for the collaboration during the development of each story to have small Pull Requests (PRs) (as opposed to a single giant PR) at the end of the sprint.
 - Code is committed to the repository by both members of the assigned pair where and when it makes sense as tasks were completed.
-- The pairing assignee is the voice representing the pair during the daily standup while being supported by the story owner.
+- The pairing assignee is the voice representing the pair during the daily standup while being supported by the story owner/product owner.
 
 ## Why pair programming helps collaboration
 
