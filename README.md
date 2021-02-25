@@ -1,4 +1,4 @@
-# Swift Office Dev Handbook
+# Swift Office Engineering Playbook
 
 All the things you need to know about being a developer at Swift Office.
 
