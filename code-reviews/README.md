@@ -8,7 +8,7 @@ Code reviews is a way to have a conversation about the code where participants w
 
 - Improve code quality by identifying and removing defects before they can be introduced into shared code branches.
 - Grow by learning from each other about unfamiliar design patterns or languages among other topics, and even break some bad habits.
-- Develop a shared understanding of Ethe project's code.
+- Develop a shared understanding of the project's code.
 
 ## Table of contents
 
