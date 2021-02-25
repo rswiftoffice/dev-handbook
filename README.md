@@ -51,7 +51,8 @@ A [breakdown of sections](SPRINT-STRUCTURE.md) according to the structure of an 
 
 ## Data Engineering Fundamentals
 
-
+* [Data Fundamentals](data-fundamentals/README.md)
+* [Machine Learning Fundamentals](ml-fundamentals/README.md)
 
 ## Old Content (Restructuring In Progress)
 
