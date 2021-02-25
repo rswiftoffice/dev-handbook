@@ -17,7 +17,7 @@ As mentioned, every story is intentionally assigned to a pair. The pairing assig
 Below are some general guidelines for pairing:
 
 - Upon assignment of the story/product backlog item (PBI), the pair needs to be deliberate about defining how to work together and have a firm definition of the work to be completed. This information should be expressed clearly in the story’s description and acceptance criteria. The expectations about this need to be communicated and agreed upon by both engineers and should be done prior to any actual working sessions.
-- The story owner and pairing assignee do not merely split the work up and sync regularly – they actively work together on the same tasks, and might share their screens via a Teams online session. Collaborative tools like [VS Live Share](https://visualstudio.microsoft.com/services/live-share/) can be preferable to sharing screens. Not all collaboration needs to be screen-share based.
+- The story owner and pairing assignee do not merely split the work up and sync regularly – they actively work together on the same tasks, and might share their screens via a MS Teams/Zoom/Webx online session.
 - During the collaborative sessions, one engineer provides the development environment while the other actively views and comments verbally.
 - Engineers trade places often from one session to the next so that everyone has time in control of the keyboard.
 - Engineers leverage feature branches for the collaboration during the development of each story to have small Pull Requests (PRs) (as opposed to a single giant PR) at the end of the sprint.
@@ -68,7 +68,7 @@ As soon the pair finds out that the PBI will warrant swarming, the pair brings i
 
 ## Benefits of increased collaboration
 
-Knowledge sharing and bringing CSE and customer engineers together in a ‘code-with’ manner is an important aspect of CSE engagements. This grows both our customers’ and our CSE team’s capability to build on Azure. We are responsible for demonstrating engineering fundamentals and leaving the customer in a better place after we disengage. This can only happen if we collaborate and engage together as a team. In addition to improved software quality, this also adds a beneficial social aspect to the engagements.
+Knowledge sharing and bringing engineers together in a ‘code-with’ manner is an important aspect of software engineering engagements. This grows both  capability to build on Swift Commercial Cloud. We are responsible for demonstrating engineering fundamentals and leaving the customer in a better place after we disengage. This can only happen if we collaborate and engage together as a team. In addition to improved software quality, this also adds a beneficial social aspect to the engagements.
 
 ## Resources
 
