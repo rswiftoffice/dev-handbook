@@ -11,7 +11,7 @@ An engineer working on a software or data engineering project...
 * Leads by example. Models the behaviors we desire both interpersonally and technically.
 * Strives to understand how their work fits into a broader context and ensures the outcome.
 
-This is our playbook. All contributions welcome! Please feel free to submit a pull request to get involved.
+This is your playbook. All contributions welcome! Please feel free to submit a pull request to get involved.
 
 ## Why Have A Playbook
 
