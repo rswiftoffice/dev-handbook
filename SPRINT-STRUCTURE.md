@@ -15,7 +15,9 @@ Unlike traditional development structures, Scrum teams don’t have a structural
 While everyone has an equal voice, there are three distinct roles within the Scrum team structure.
 
 ### Product Owner
+
 ### Scrum Master
+
 ### Scrum Delivery Team
 
 ## The first week of a project
