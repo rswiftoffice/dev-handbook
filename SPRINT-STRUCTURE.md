@@ -55,7 +55,7 @@ While everyone has an equal voice, there are three distinct roles within the Scr
 - [ ] [Set up Source Control](source-control/readme.md)
   - Agree on [best practices for commits](source-control/readme.md#commit-best-practices)
 - [ ] [Set up basic Continuous Integration with linters and automated tests](continuous-integration/README.md)
-- [ ] [Set up meetings for Daily Scrum Meeting and decide on a Process Lead](agile-development/daily-scrum/README.md)
+- [ ] [Set up meetings for Daily Scrum Meeting and decide on a Process Lead](agile-development/daily-scrum-meeting/README.md)
   - Discuss purpose, goals, participants and facilitation guidance
   - Discuss timing, and how to run an efficient daily scrum meeting
 - [ ] [If the project has sub-teams, set up a Scrum of Scrums](agile-development/scrum-of-scrums/README.md)
