@@ -27,7 +27,7 @@ If you are looking to deploy your application, you can follow the [Deployment Ch
 
 ## Structure of a Sprint
 
-If you just started your first Agile project or if you want to read more on the structure of a Agile sprint, you can take a look at the [breakdown of sections](SPRINT-STRUCTURE.md)
+If you just started your first Agile project or if you want to read more on the structure of a Agile sprint, you can take a look at the [structure of sprint](SPRINT-STRUCTURE.md).
 
 ## General Guidance
 
