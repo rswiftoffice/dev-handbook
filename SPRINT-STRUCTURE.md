@@ -6,7 +6,7 @@ The purpose of this document is to:
 - Provide content in a logical structure which reflects the engineering process
 - Extensible hierarchy to allow teams to share deep subject matter expertise
 
-## The first week of a Project
+## The first week of a project
 
 ### Before starting the project
 
