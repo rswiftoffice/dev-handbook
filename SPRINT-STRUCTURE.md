@@ -6,6 +6,18 @@ The purpose of this document is to:
 - Organize content in the playbook for quick reference and discoverability.
 - Extensible hierarchy to allow teams to share deep subject matter expertise.
 
+## Scrum Team Composition
+
+The typical Scrum team size is five to nine people (with seven being the ideal—one product owner, one scrum master, and five developers). 
+
+Unlike traditional development structures, Scrum teams don’t have a structural hierarchy. Instead, they are self-managing and cross-functional. All team members are equally important and together have all the skills and knowledge necessary to deliver a working product.
+
+While everyone has an equal voice, there are three distinct roles within the Scrum team structure.
+
+### Product Owner
+### Scrum Master
+### Scrum Delivery Team
+
 ## The first week of a project
 
 ### Before starting the project
