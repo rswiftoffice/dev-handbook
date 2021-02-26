@@ -85,4 +85,3 @@ While everyone has an equal voice, there are three distinct roles within the Scr
   - Determine required participants
   - Update the [Definition of Ready](agile-development/team-agreements/definition-of-ready/readme.md)
   - Update estimates, and the [Estimation](agile-development/sprint-planning/estimation/readme.md) document
-- [ ] [Submit Engineering Feedback for issues encountered](engineering-feedback/readme.md)
