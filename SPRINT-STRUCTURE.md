@@ -62,7 +62,7 @@ The Scrum Master serves the organization in several ways, including:
 - Causing change that increases the productivity of the Scrum Team
 - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
 
-### Scrum Delivery Team
+## Scrum Delivery Team
 
 The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint. A “Done” increment is required at the Sprint Review. Only members of the Development Team create the Increment. Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Development Team’s overall efficiency and effectiveness.
 
