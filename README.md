@@ -1,5 +1,7 @@
 # Announcement
 
+HELLO
+
 This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](https://github.com/rswiftoffice/dev-handbook/issues/new). Contributing guidelines can be found [here]().
 
 # Swift Engineering Playbook
