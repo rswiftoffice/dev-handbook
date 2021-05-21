@@ -1,8 +1,6 @@
 # Announcement
 
-HELLO
-
-This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](https://github.com/rswiftoffice/dev-handbook/issues/new). Contributing guidelines can be found [here]().
+This is a **WORK IN PROGRESS**. Help us make it better by [submitting an issue](https://github.com/rswiftoffice/swift-engineering-playbook/issues/new). Contributing guidelines can be found [here]().
 
 # Swift Engineering Playbook
 
