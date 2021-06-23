@@ -12,3 +12,32 @@ https://denniszielke.medium.com/securing-ingress-with-azureappgateway-and-egress
 
 CloudFlare
 https://nanjoran.com/2020/04/22/Kubernetes-Ingress-controller-with-Cloudflare/#Install-the-certificates-in-our-K8s-cluster
+
+
+
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: loft-ingress
+  namespace: loft
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/use-regex: "true"
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
+spec:
+  tls:
+  - hosts:
+    - loft.northpole.swiftoffice.org
+    secretName: tls-secret
+  rules:
+  - host: loft.northpole.swiftoffice.org
+    http:
+      paths:
+      - path: /(.*)
+        pathType: Prefix
+        backend:
+          service:
+            name: loft
+            port:
+              number: 80
